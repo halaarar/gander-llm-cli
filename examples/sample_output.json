@@ -1,0 +1,1 @@
+python -m gander_llm_cli --brand="Gander GEO" --url="https://gandergeo.com" --question="What does this brand offer?" --max-searches=0 --max-sources=0 --output examples/sample_output.json
